@@ -1,0 +1,14 @@
+Estadísticas del radio efectivo (raefcorkpg)
+Media: 5.328511776114951
+Mediana: 4.968530633682992
+Moda: 2.174978744896388
+Desviación estándar: 2.8567376662360546
+Varianza: 8.16095009369182
+Mínimo: 0.002032452717289
+Máximo: 284.8070696190369
+Rango: 284.8050371663196
+Covarianza: 1.1189729200641318
+
+Regresión lineal 
+Ecuación de la recta: y = 1.7693 * x + 20.2922
+Coeficiente de determinación (R²): 0.2264
